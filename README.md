@@ -1,4 +1,4 @@
-![](images/calvin.jpg)
+![](images/calvin_img.jpg)
 
 <!--
 **expectopatronm/expectopatronm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
